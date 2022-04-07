@@ -14,11 +14,6 @@ Amazonas es una página web con un diseño inspirado en Amazon, las funciones im
 * Cuenta con un carrito de compras.
 
 ********
-
-Las tecnologias implementadas fueron:HTML, CSS, JavaScript, React JS, React Boostrap, Redux, Firebase.
-Entre otras opciones que puedes ver en la pagina
-
-********
 ### 📡  Set up
 
 1. Clone the repo
@@ -30,7 +25,8 @@ Entre otras opciones que puedes ver en la pagina
 2. Firebase
 3. Redux
 4. React Boostrap
-5. Css
+5. Html5
+6. Css3
 
 ********
 ### 🤠 Up and running
