@@ -14,6 +14,7 @@ Amazonas es una página web con un diseño inspirado en Amazon, las funciones im
 * Cuenta con un carrito de compras.
 
 ********
+
 ### 📡  Set up
 
 1. Clone the repo
